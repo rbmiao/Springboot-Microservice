@@ -16,15 +16,20 @@ Create following service from start.
 
 # Tools
 * Intellij IDEA
-* Eureka: Screenshot<img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-04%20at%209.44.11%20PM.png">After
+* Eureka: Screenshot<img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-05%20at%205.18.37%20PM.png">After
 
 
+* config server: <img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-04%20at%209.45.16%20PM.png">
 * Postman app: testing api calls(post/get)
+
 * zipkin server: log tracking 
 ```
 java -jar zipkin-<version>.jar
 ```
-* Hystrix dashboard: track api requests
+<img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-05%20at%205.18.37%20PM.png">
+* Hystrix dashboard: track api requests.
+<img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-04%20at%209.45.02%20PM.png">
+<img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-04%20at%209.44.11%20PM.png">
 
 
 
