@@ -15,17 +15,26 @@ Create following service from start.
 * Cloud Config Server 			- cloud config server
 
 # Tools
+
 * Intellij IDEA
+
 * Eureka: <img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-05%20at%205.18.37%20PM.png">
 
 
+
+
 * config server: <img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-04%20at%209.45.16%20PM.png">
+
+
 * Postman app: testing api calls(post/get)
+
+<img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-05%20at%206.01.41%20PM.png">
 
 * zipkin server: log tracking 
 ```
 java -jar zipkin-<version>.jar
 ```
+
 
 * Hystrix dashboard: track api requests.
 <img src="https://github.com/rbmiao/Springboot-Microservice/blob/main/Screen%20Shot%202021-02-04%20at%209.45.02%20PM.png">
