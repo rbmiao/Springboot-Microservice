@@ -16,12 +16,25 @@ Create following service from start.
 
 # Tools
 * Intellij IDEA
+* Eureka: 
+
+
 * Postman app: testing api calls(post/get)
 * zipkin server: log tracking 
 ```
 java -jar zipkin-<version>.jar
 ```
 * Hystrix dashboard: track api requests
+
+
+
+
+
+
+
+
+
+
 
 
 Reference: youtube (https://www.youtube.com/watch?v=BnknNTN8icw)
